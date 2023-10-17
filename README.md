@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/GuilhermeBussadori/bypass-safiragpt/main/safir
 
 ## 👥 Comunidades
 [TdM](https://discord.gg/tdm)
-[CabraDevs_server_yoshi] (https://discord.gg/qKTK2PTCGZ)
+[CabraDevs_server_yoshi](https://discord.gg/qKTK2PTCGZ)
 
 ## 🏮 Salves
 
