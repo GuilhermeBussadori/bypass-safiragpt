@@ -2,7 +2,7 @@
 # 👨‍💻 SafiraGpt - Script Injector para ChatGPT 👨‍💻
 Uma simples extensão para burlar totalmente os filtros de proteção do ChatGPT - OpenAI
 
-![A](https://cdn.discordapp.com/attachments/1163284667026387064/1163983265019986020/image.png?ex=65418ee4&is=652f19e4&hm=82ed6ee02a19ec1adfe8259cd7a284927d6aa1fbcd32984ab8dd7c00090b010c&)
+![A](https://cdn.discordapp.com/attachments/1169337868276207627/1183544046606626907/image.png?ex=6588b849&is=65764349&hm=1e8a711dd183e380afc0ba557097c633159f831e3df8177de47d99f93c5fbdfa&)
 
 
 -  **Praticidade**: Você não precisará mais ter que ficar colando o mesmo prompt de bypass no começo das frases para que ele continue o assunto do modo desejado. Com SafiraGpt, você simplesmente escreve o que bem entender e ele vai ser forçado a responder, independente do que for.
